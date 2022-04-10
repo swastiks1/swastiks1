@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swastiks1
 - 👀 I’m interested in coding and learning different coding languages
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Python
 - 📫 How to reach me ...swastiks343@gmail.com
 
 <!---
